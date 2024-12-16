@@ -1,0 +1,595 @@
+Order	Order Type	Description	Revision	Main work center	Sort field	Description of functional location
+100906163	PM01	4Y C/O Mech Cyclone Cluster Feed Pipe		5		Cyclone Feed Piping
+100954953	PM01	5Y C/O Reducer Vertical Cell		5	0330-FTR-0006	Vertical Gear Reducer
+100974052	PM01	6M C/O Mech Discharge Hose		5	0330-PPR-0017	Piping & Valving
+100991965	PM01	3Y C/O Rotor Flotation Cell	OUTM2401	5	0330-FTR-0001	Rotor
+101035462	PM01	3Y C/O Rotor Flotation Cell	OUTM2504	5	0330-FTR-0007	Rotor
+101035463	PM01	3Y C/O Stator Flotation Cell	OUTM2504	5	0330-FTR-0005	Stator
+101035464	PM01	3Y C/O Stator Flotation Cell	OUTM2504	5	0330-FTR-0007	Stator
+101035465	PM01	3Y C/O Rotor Cell		5	0330-FTR-0002	Rotor
+101035466	PM01	3Y C/O Rotor Cell		5	0330-FTR-0009	Rotor
+101035468	PM01	3Y C/O Rotor Cell		5	0330-FTR-0011	Rotor
+101035469	PM01	3Y C/O Rotor Cell		5	0330-FTR-0012	Rotor
+101035470	PM01	3Y C/O Rotor Cell		5	0330-FTR-0004	Rotor
+101036396	PM01	3Y C/O Rotor Cell		5	0330-FTR-0015	Rotor
+101036397	PM01	3Y C/O Rotor Cell		5	0330-FTR-0017	Rotor
+101036399	PM01	3Y C/O Rotor Cell		5	0330-FTR-0006	Rotor
+101036400	PM01	3Y C/O Rotor Cell		5	0330-FTR-0019	Rotor
+101036401	PM01	3Y C/O Rotor Cell		5	0330-FTR-0020	Rotor
+101044535	PM01	2Y C/O Mech Filter Plates Links Sup.	OUTF2601	6	0420-FLA-0002	Filter Plates
+101044536	PM01	2Y C/O Mech Filter Plates Blocks Sup.	OUTF2601	6	0420-FLA-0002	Filter Plates
+101044537	PM01	2Y C/O Mech Filter Plates Links Inf.	OUTF2502	6	0420-FLA-0003	Filter Plates
+101044538	PM01	2Y C/O Mech Filter Plates Blocks Inf.	OUTF2502	6	0420-FLA-0003	Filter Plates
+101044539	PM01	4Y C/O Mech Filter Wheels MPH	OUTF2403	6	0420-FLA-0002	Frame
+101044660	PM01	3Y C/O Mech Filter Isolator Vibration	OUTF2602	6	0420-FLA-0002	Frame
+101046886	PM01	2Y Pump Assembly	PROC-P	6	0510-PPC-0131	Pump System
+101046887	PM01	2Y Pump Assembly		6	0510-PPC-0132	Pump System
+101062532	PM01	4Y C/O Draft Tube Flotation Cell		5		Draft Tube
+101062534	PM01	4Y C/O Mech Cone Velocity	OUTM2503	5	0330-FTR-0010	Cone Velocity
+101063193	PM01	4Y C/O Draft Tube Flotation Cell	OUTM2505	5	0330-FTR-0010	Draft Tube
+101065688	PM01	4Y C/O Mech Bottom False	OUTM2504	5	0330-FTR-0019	Bottom False
+101065689	PM01	4Y C/O Mech Bottom False	OUTM2502	5	0330-FTR-0021	Bottom False
+101065690	PM01	4Y C/O Mech Bottom False	OUTM2504	5	0330-FTR-0022	Bottom False
+101068696	PM01	4Y C/O Mech Cone Velocity	OUTM2503	5	0330-FTR-0018	Cone Velocity
+101082751	PM01	2Y Pump Assembly	PROC-P	6	0510-PPC-0130	Pump System
+101085047	PM01	5Y C/O Mech Driven Pulley	OUTM2505	5	0330-FTA-0005	Drive Components
+101086763	PM01	3Y C/O Disperser Cell	PROC-P	5	0330-FTR-0028	Disperser
+101087279	PM01	3M Insp Feed Cells Flotation Rougher	OUTM2401	5	0330-STP-0025	Structure
+101087344	PM01	3M Insp Rougher Flotation Cells	OUTM2402	5	RSFL004	Flot Rougher & Rougher Scav Row 4
+101088896	PM01	6M Chck Syst & Comp FE/Moly Roug Row 1/2	OUTY2402	6	MOFL002	Feed Moly Rougher Row 1 & 2
+101088898	PM01	6M Chck Syst & Comp Flot Moly Clner Scvg	OUTY2402	6	MOSC001	Flotation Moly Cleaner Scavenger
+101093337	PM01	1Y C/O Bearing Assembly Pump		6	0420-PPS-0073	Bearing Assembly
+101096024	PM01	4Y C/O Draft Tube Flotation Cell		5	0330-FTR-0017	Draft Tube
+101096025	PM01	4Y C/O Draft Tube Flotation Cell		5	0330-FTR-0018	Draft Tube
+101096029	PM01	3Y C/O Rotor Flotation Cell		5	0330-FTA-0011	Rotor
+101096030	PM01	3Y C/O Stator 100 Cell	OUTM2501	5	0330-FTA-0011	Stator
+101096031	PM01	3Y C/O Rotor Flotation Cell 70	OUTM2501	5	0330-FTA-0017	Rotor
+101096032	PM01	3Y C/O Stator 70 Cell		5	0330-FTA-0017	Stator
+101096038	PM01	4Y C/O Mech Cone Velocity		5	0330-FTR-0017	Cone Velocity
+101096039	PM01	4Y C/O Mech Cone Velocity		5	0330-FTR-0027	Cone Velocity
+101096040	PM01	4Y C/O Mech Cone Velocity	OUTM2503	5	0330-FTR-0028	Cone Velocity
+101096041	PM01	4Y C/O Mech Bottom False		5	0330-FTR-0012	Bottom False
+101096635	PM01	3Y C/O Rotor 160 Cell		5	0330-FTA-0007	Rotor
+101096636	PM01	3Y C/O Stator 160 Cell	OUTM2601	5	0330-FTA-0007	Stator
+101104426	PM01	3Y C/O Disperser Cell	OUTM2407	5	0330-FTR-0015	Disperser
+101109670	PM01	3M Insp Rougher Flotation Cells	OUTM2405	5	RSFL001	Flot Rougher & Rougher Scav Row 1
+101109677	PM01	6M Chck Syst & Comp Thickener Tailings	OUTM2405	6	0510-TKF-0026	Thickener Tailings 1
+101111665	PM01	1Y C/O Plate Filter MPH	OUTF2501	6	0420-FLA-0002	Filter Plates
+101111666	PM01	1Y C/O Filter Plate FPH	OUTF2501	6	0420-FLA-0002	Filter Plates
+101111667	PM01	1Y C/O Plate Membrane Complete Filter	OUTF2501	6	0420-FLA-0002	Filter Plates
+101111668	PM01	1Y C/O Plate Filter Complete	OUTF2501	6	0420-FLA-0002	Filter Plates
+101116571	PM01	3Y C/O Rotor Flotation Cell	OUTM2608	5	0330-FTR-0005	Rotor
+101116983	PM01	4Y C/O Draft Tube Flotation Cell	OUTM2501	5	0330-FTR-0012	Draft Tube
+101116985	PM01	4Y C/O Draft Tube Flotation Cell	OUTM2504	5		Draft Tube
+101116986	PM01	4Y C/O Mech Cone Velocity	OUTM2505	5	0330-FTR-0011	Cone Velocity
+101116987	PM01	4Y C/O Mech Cone Velocity	OUTM2504	5	0330-FTR-0019	Cone Velocity
+101116988	PM01	4Y C/O Mech Cone Velocity	OUTM2506	5	0330-FTR-0020	Cone Velocity
+101116989	PM01	3Y C/O Rotor Cell	OUTM2505	5	0330-FTA-0003	Rotor
+101116990	PM01	3Y C/O Rotor 160 Cell	OUTM2505	5	0330-FTA-0002	Rotor
+101116992	PM01	3Y C/O Rotor 160 Cell	OUTM2501	5	0330-FTA-0010	Rotor
+101116993	PM01	3Y C/O Rotor Flotation Cell	OUTM2501	5	0330-FTA-0015	Rotor
+101116994	PM01	3Y C/O Stator 160 Cell	OUTM2505	5	0330-FTA-0009	Stator
+101116995	PM01	3Y C/O Stator 160 Cell	OUTM2501	5	0330-FTA-0010	Stator
+101116997	PM01	3Y C/O Stator 100 Cell	OUTM2505	5	0330-FTA-0016	Stator
+101116998	PM01	3Y C/O Stator 70 Cell	OUTM2501	5	0330-FTA-0020	Stator
+101116999	PM01	3Y C/O Rotor Flotation Cell 70	OUTM2603	5	0330-FTA-0019	Rotor
+101117001	PM01	4Y C/O Distributor Cyclone Cluster	OUTM2505	5	0330-CSC-0005	Distributor Rougher Regrind
+101117002	PM01	5Y C/O Mech Pump Lube Recirculation	OUTM2505	6	0340-TMS-0001	Pump Lube Recirculation
+101117009	PM01	6Y C/O Mech Hydraulic Lift Cylinders	OUTM2501	6	0410-TMS-0006	Hydraulic Cylinder 1
+101117010	PM01	6Y C/O Mech Hydraulic Lift Cylinders	OUTM2501	6	0410-TMS-0006	Hydraulic Cylinder 2
+101117011	PM01	6Y C/O Mech Hydraulic Lift Cylinders	OUTM2501	6	0410-TMS-0006	Hydraulic Cylinder 3
+101117012	PM01	6Y C/O Mech Hydraulic Lift Cylinders	OUTM2501	6	0410-TMS-0006	Hydraulic Cylinder 4
+101117017	PM01	4Y C/O Pump Thickener	OUTM2501	6	0410-TMS-0006	Pump Hydraulic
+101117018	PM01	5Y C/O Mech Pump Lube Recirculation	OUTM2501	6	0410-TMS-0006	Pump Lube Recirculation
+101117019	PM01	5Y C/O Mech Pump Hydraulic Lift	OUTM2501	6	0410-TMS-0006	Pump Hydraulic Lift
+101117042	PM01	6Y C/O Hydraulic Cylinder Thickener	OUTM2501	6	0510-TMS-0004	Hydraulic Cylinder 1
+101117043	PM01	6Y C/O Hydraulic Cylinder Thickener	OUTM2501	6	0510-TMS-0004	Hydraulic Cylinder 2
+101117044	PM01	6Y C/O Hydraulic Cylinder Thickener	OUTM2501	6	0510-TMS-0004	Hydraulic Cylinder 3
+101117045	PM01	6Y C/O Hydraulic Cylinder Thickener	OUTM2501	6	0510-TMS-0004	Hydraulic Cylinder 4
+101117046	PM01	5Y C/O Mech Pump Lube Recirculation	OUTM2501	6	0510-TMS-0004	Pump Lube Recirculation
+101117047	PM01	5Y C/O Mech Pump Hydraulic Lift	OUTM2501	6	0510-TMS-0004	Pump Hydraulic Lift
+101117052	PM01	5Y C/O Mech Pump Lube Recirculation	OUTM2506	6	0510-TMS-0005	Pump Lube Recirculation
+101117054	PM01	6Y C/O Mech Hyd Rake Lift Valves	OUTM2501	6	0510-TMS-0004	Valves
+101117057	PM01	4Y C/O Mech Bottom False	OUTM2503	5	0330-FTR-0018	Bottom False
+101119088	PM01	6M C/O Throatbush		5	0330-PPS-0019	Pump System
+101119089	PM01	1Y C/O Throat-Liners-Impeller		5	0330-PPS-0019	Pump Ro-Scavenger Conc Mill Product
+101119572	PM01	2Y C/O B. Housing Flotation Cell		5	0330-FTA-0011	Agitator Components
+101120940	PM01	2Y C/O Mech Filter Plates Links Sup.	OUTF2602	6	0420-FLA-0003	Filter Plates
+101120941	PM01	2Y C/O Mech Filter Plates Blocks Sup.	OUTF2602	6	0420-FLA-0003	Filter Plates
+101120946	PM01	2Y C/O Mech Filter Plates Blocks Inf.	OUTF2503	6	0420-FLA-0004	Filter Plates
+101120947	PM01	2Y C/O Mech Filter Plates Links Inf.	OUTF2503	6	0420-FLA-0004	Filter Plates
+101120949	PM01	3Y C/O Mech Filter Isolator Vibration	OUTF2601	6	0420-FLA-0003	Frame
+101120950	PM01	3Y C/O Mech Filter Vibration Damper	OUTF2501	6	0420-FLA-0003	Frame
+101122999	PM01	1Y C/O Throat-Liners-Impeller		5	0330-PPS-0020	Pump Ro-Scavenger Conc Mill Product
+101123964	PM01	1Y C/O Plate Membrane Complete Filter	OUTF2502	6	0420-FLA-0003	Filter Plates
+101125409	PM01	5Y C/O Mech Driving Pulley	OUTM2501	5	0330-FTA-0005	Drive Components
+101125410	PM01	5Y C/O Mech Driving Pulley	OUTM2501	5	0330-FTA-0006	Drive Components
+101128610	PM01	4Y C/O Mech Bottom False		5	0330-FTR-0015	Bottom False
+101130408	PM01	2Y C/O B. Housing Flotation Cell 70	OUTM2501	5	0330-FTA-0017	Agitator Components
+101130597	PM01	2Y C/O B. Housing Flotation Cell 70	OUTM2405	5	0330-FTA-0022	Agitator Components
+101130598	PM01	3Y C/O Rotor Flotation Cell 70	OUTM2405	5	0330-FTA-0022	Rotor
+101133394	PM01	3M Chck & Regul Pump Feed Filter Press		6	0420-PPS-0074	Pump System
+101141714	PM01	2Y C/O Bearing Housing 160		5	0330-FTA-0002	Agitator Components
+101142489	PM01	3Y C/O Rotor Cell	PROC-P	5	0330-FTR-0025	Rotor
+101143732	PM01	3Y C/O Rotor Cell	2024W17	5	0330-FTR-0027	Rotor
+101150470	PM01	3Y C/O Disperser Cell	2024W20	5	0330-FTR-0013	Disperser
+101151917	PM01	3Y C/O Rotor Cell	2024W26	5	0330-FTA-0006	Rotor
+101152338	PM01	6M C/O Throatbush		5	0330-PPS-0006	Pump Rougher Concentrate Cyclone Feed
+101152416	PM01	2Y C/O Bearing Housing 160		5	0330-FTA-0007	Agitator Components
+101153422	PM01	6M C/O Pump	2024W37	5	0330-PPR-0049	Pump System
+101154545	PM01	1M C/O Hose Conc Pump	2024W46	6	0370-PPD-0230	Wet End
+101154547	PM01	6M C/O Sleeve Conc Pump	2024W46	6	0370-PPD-0229	Wet End
+101154548	PM01	1Y C/O Shoe Cast Iron Pump		6	0370-PPD-0229	Wet End
+101154549	PM01	6M C/O Sleeve Conc Pump	2024W46	6	0370-PPD-0230	Wet End
+101154550	PM01	1Y C/O Shoe Cast Iron Pump		6	0370-PPD-0230	Wet End
+101154551	PM01	2Y C/O Gearbox Helical ALXH65		6	0370-PPD-0230	Drive System
+101154552	PM01	5Y C/O Gear Box Pump		5	0330-PPS-0021	Gearbox
+101154679	PM01	5Y C/O Gear Box Pump	PROC-P	5	0330-PPS-0148	Gearbox
+101155959	PM01	1Y C/O Pump Prominent		6	0370-PPD-0001	Pump Metering NaHS
+101159635	PM01	3Y C/O Disperser Cell	PROC-P	5	0330-FTR-0009	Disperser
+101160193	PM01	6M Change Out Transmition V-Belt		5	0330-FTA-0022	Drive System
+101160930	PM01	6M C/O Pump Repair Kit FM	2024W48	5	0392-PPD-0057	Wet End
+101160931	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0058	Wet End
+101161472	PM01	4Y C/O Mech Filter Wheels MPH	OUTF2501	6	0420-FLA-0003	Frame
+101162131	PM01	2Y C/O Pump Prominent		5	0392-PPD-0040	Wet End
+101162132	PM01	2Y C/O Pump Prominent		5	0392-PPD-0073	Wet End
+101162133	PM01	2Y C/O Pump Prominent		5	0392-PPD-0226	Wet End
+101162134	PM01	2Y C/O Pump Prominent		5	0392-PPD-0115	Wet End
+101162135	PM01	2Y C/O Pump Prominent		5	0392-PPD-0224	Wet End
+101162136	PM01	2Y C/O Pump Prominent		5	0392-PPD-0062	Wet End
+101162501	PM01	4Y C/O Mech Cone Velocity	OUTM2601	5	0330-FTR-0012	Cone Velocity
+101162632	PM01	2Y C/O Pump Assembly		6	0552-PPC-0144	Wet End
+101162633	PM01	2Y C/O Pump Assembly		7	0552-PPC-0145	Wet End
+101162634	PM01	2Y C/O Pump Assembly		6	0552-PPC-0146	Wet End
+101162635	PM01	2Y C/O Pump Assembly		6	0510-PPC-0129	Pump System
+101162820	PM01	3Y C/O Stator 70 Cell		5	0330-FTA-0018	Stator
+101163158	PM01	4Y C/O Valve Discharge Tank H2SO4		6	0370-TKS-0004	Piping & Valving
+101163282	PM01	6M C/O Mech Hydraulic Power Unit Oil		6	0510-TMS-0004	Tank
+101163283	PM01	6M C/O Mech Hydraulic Power Unit Oil		6	0510-TMS-0005	Tank
+101165035	PM01	6M C/O Throatbush	2024W29	5	0330-PPS-0144	Pump Transfer First Cleaner Concentrate
+101165413	PM01	6M C/O Throatbush	2024W33	5	0330-PPS-0012	Pump Feed Cycln Concntrt Rgher Scavngr 1
+101165811	PM01	3Y C/O Mech Filter Isolator Vibration	OUTF2603	6	0420-FLA-0004	Frame
+101165812	PM01	3Y C/O Mech Filter Vibration Damper	OUTF2503	6	0420-FLA-0004	Frame
+101168361	PM01	1Y C/O Pads	OUTM2501	6	0410-TKF-0032	Rakes
+101168362	PM01	1Y C/O Pads	OUTM2601	6	0410-TKF-0032	Rakes
+101168363	PM01	1Y C/O Pads	OUTM2505	6	0340-TKF-0001	Rakes
+101168364	PM01	6M C/O Pads Thickener TKF-26	OUTM2501	6	510-TKF-0026	Rakes
+101168365	PM01	6M C/O Pads Thickener TKF-26	OUTM2505	6	510-TKF-0026	Rakes
+101168366	PM01	6M C/O Pads Thickener TKF-27	OUTM2502	6	510-TKF-0027	Rakes
+101168367	PM01	6M C/O Pads Thickener TKF-27	OUTM2506	6	510-TKF-0027	Rakes
+101168368	PM01	1Y C/O Guide&Shoe Bracket Thickener 26	OUTM2505	6	510-TKF-0026	Rakes
+101168369	PM01	1Y C/O Guide&Shoe Bracket Thickener 27	OUTM2506	6	510-TKF-0027	Rakes
+101170289	PM01	6M C/O Pump		6	0340-PPR-0020	Pump System
+101173610	PM01	3Y C/O Rotor Flotation Cell	OUTM2407	5	0330-FTR-0003	Rotor
+101176814	PM01	6M C/O Cleaner Primary Secundary&V Plow	OUTM2501	6		Belt Cleaners
+101177255	PM01	6M Maint Scrubber Moly Flotation Plant	OUTY2501	6	0370-DCS-0005	Scrubber Moly Flotation Plant
+101177256	PM01	6M Maint Scrubber Moly Flotation Plant	OUTY2501	6	0370-DCS-0006	Scrubber Moly Flotation Plant
+101178003	PM01	6M Maint Press Filter Moly	OUTY2501	6	0370-FLA-0001	Filter Pressure Final Moly
+101178013	PM01	4M Maint Press Filter Cu Concentrate	OUTF2501	6	0420-FLA-0002	Press Filter Cu Concentrate Horizontal
+101178014	PM01	4M Maint Press Filter Cu Concentrate		6	0420-FLA-0002	Press Filter Cu Concentrate Horizontal
+101178475	PM01	3M Chck Compon Pump Emergency Pond	2024W43	5	0330-PPR-0049	Pump System
+101181790	PM01	6M C/O Pinch Valve Sleeve	OUTY2501	6	0370-FTC-0001	Piping & Valving
+101181791	PM01	1Y C/O Dart Valve Cell	OUTM2503	5	0330-FTR-0001	Dart Valves
+101181792	PM01	1Y C/O Dart Valve Cell	OUTM2503	5	0330-FTR-0003	Dart Valves
+101181793	PM01	1Y C/O Dart Valve Cell	OUTM2504	5	0330-FTR-0005	Dart Valves
+101181794	PM01	1Y C/O Dart Valve Cell	OUTM2504	5	0330-FTR-0007	Dart Valves
+101181795	PM01	1Y C/O Dart Valve Cell	OUTM2505	5	0330-FTR-0002	Dart Valves
+101181796	PM01	1Y C/O Dart Valve Cell	OUTM2505	5	0330-FTR-0004	Dart Valves
+101181797	PM01	1Y C/O Dart Valve Cell	OUTM2506	5	0330-FTR-0006	Dart Valves
+101181799	PM01	1Y C/O Dart Valve Cell	OUTM2506	5	0330-FTR-0008	Dart Valves
+101181907	PM01	2W Insp Mech Cluster Cyclone	2024W32	5	0330-CSC-0005	Cyclone Cluster Rougher Concentrate Re
+101182101	PM01	6M C/O Dart Valve Discharge Cell	OUTM2501	5		Dart Valves
+101182102	PM01	6M C/O Dart Valve Discharge Cell	OUTM2505	5		Dart Valves
+101182103	PM01	6M C/O Dart Valve Discharge Cell	OUTM2501	5		Dart Valves
+101182104	PM01	6M C/O Dart Valve Discharge Cell	OUTM2505	5		Dart Valves
+101182105	PM01	6M C/O Dart Valve Discharge Cell	OUTM2502	5		Dart Valves
+101182106	PM01	6M C/O Dart Valve Discharge Cell	OUTM2506	5		Dart Valves
+101182107	PM01	6M C/O Dart Valve Discharge Cell	OUTM2502	5		Dart Valves
+101182108	PM01	6M C/O Dart Valve Discharge Cell	OUTM2506	5		Dart Valves
+101182113	PM01	4Y C/O Draft Tube Flotation Cell	OUTM2501	5	0330-FTR-0027	Draft Tube
+101182649	PM01	3Y C/O Dart Valve Connection 70	OUTM2605	5	0330-FTA-0022	Dart Valves
+101182656	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0410-TMS-0006	Motor Hydraulic 1
+101182657	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0410-TMS-0006	Motor Hydraulic 2
+101182658	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0410-TMS-0006	Motor Hydraulic 3
+101182659	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0410-TMS-0006	Motor Hydraulic 4
+101183042	PM01	3Y C/O Pump		6	0410-PPD-0220	Pump Components
+101183901	PM01	6M C/O Sleeve 18in Pinch Valve 9442		6	0510-TKF-0027	Thickener Tailings 2
+101184452	PM01	3M Chck & Regul Pump Feed Filter Press		6	0420-PPS-0074	Pump System
+101185086	PM01	2M Chck Comp & Regul Pump High Pres Pump		7	2132-PPC-0121	Pump High Press Pump Station 3
+101185092	PM01	2M Chck Comp & Regul Pump High Pres Pump		7	2132-PPC-0120	Pump High Press Pump Station 3
+101185244	PM01	2M Chck Comp & Regul Pump High Pres Pump		7	2132-PPC-0119	Pump High Press Pump Station 3
+101185245	PM01	3Y C/O Pump		5	0392-ZMF-0004-11	Pump Components
+101185247	PM01	3Y C/O Rotor		6	0370-FTA-0024	Rotor
+101185248	PM01	3Y C/O Rotor		6	0370-FTA-0025	Rotor
+101185249	PM01	3Y C/O Rotor		6	0370-FTA-0034	Rotor
+101185250	PM01	3Y C/O Rotor		6	0370-FTA-0035	Rotor
+101185251	PM01	3Y C/O Rotor		6	0370-FTA-0036	Rotor
+101185252	PM01	3Y C/O Rotor		6	0370-FTA-0037	Rotor
+101185253	PM01	5Y C/O Pump Piston High Pressure		6	0420-FLA-0002	Pump Hydraulic 2
+101185254	PM01	5Y C/O Pump Piston High Pressure		6	0420-FLA-0004	Pump Hydraulic 2
+101185255	PM01	5Y C/O Pump Piston High Pressure		6	0420-FLA-0003	Pump Hydraulic 2
+101185256	PM01	6M Chck/Chng Comp Flotat Cleaner Scaveng	OUTM2501	5	CSFL001	Flotation Cleaner Scavenger
+101185257	PM01	6M Chck/Chng Comp Flotat Cleaner Scaveng		5	CSFL001	Flotation Cleaner Scavenger
+101185259	PM01	1Y C/O Throat-Liners-Impeller		5	0330-PPS-0148	Pump Transfer Second Cleaner Concentrate
+101185321	PM01	6M Maint Press Filter Moly		6	0370-FLA-0001	Filter Pressure Final Moly
+101185322	PM01	3Y C/O Mech Filter Isolator Vibration		6	0420-FLA-0002	Frame
+101185327	PM01	2Y C/O Mech Filter Plates Blocks Sup.	OUTF2603	6	0420-FLA-0004	Filter Plates
+101185328	PM01	2Y C/O Mech Filter Plates Links Inf.	OUTF2501	6	0420-FLA-0002	Filter Plates
+101186010	PM01	2Y C/O Gearbox Helical ALXH65		6	0370-PPD-0229	Drive System
+101186114	PM01	6M Insp Mech Pump Hydraulic Emergency	OUTM2501	6	0510-TMS-0004	Pump Hydraulic Emergency
+101186116	PM01	2Y C/O Pump Assembly	PROC	7	0551-PPV-0073	Pump System
+101186118	PM01	6M C/O Sleeve Conc Pump		6	0370-PPD-0230	Wet End
+101186119	PM01	6M Chck/Chng Comp Flotat First Cleaner	OUTM2501	5	CLFL001	Flotation First Cleaner
+101186120	PM01	4Y C/O Draft Tube Flotation Cell		5		Draft Tube
+101187834	PM01	2Y C/O B. Housing Flotation Cell		5	0330-FTA-0012	Agitator Components
+101189049	PM01	4Y C/O Mech Cone Velocity	OUTM2501	5	0330-FTR-0009	Cone Velocity
+101189611	PM01	2M C/O Sleeve Filtrat Feed 0420-TKF-0021	OUTM2501	6	0420-TKF-0021	Piping & Valving
+101189615	PM01	2Y C/O Bearing Assembly		5	0330-PPS-0022	Bearings
+101189617	PM01	6M C/O Throatbush		5	0330-PPS-0011	Pump Feed Cycln Concntrt Rgher Scavngr 1
+101189618	PM01	5Y C/O Gear Box Pump		5	0330-PPS-0148	Gearbox
+101189678	PM01	1Y C/O Throat-Liners-Impeller	PROC	5	0330-PPS-0143	Pump Transfer First Cleaner Concentrate
+101189679	PM01	2Y C/O Pump Assembly		6	0552-PPC-0148	Wet End
+101189680	PM01	4M Maint Pump Sump Truck Scale Wash		6	0430-PPR-0066	Pump Sump Truck Scale Wash
+101189746	PM01	5Y C/O Gear Reducer Flotation Cell	OUTM2502	5	0330-FTR-0005	Vertical Gear Reducer
+101189787	PM01	2Y C/O Pump Assembly		7	0551-PPV-0074	Pump System
+101189790	PM01	2M Chck & Regul Pump		6	0370-PPC-0012	Pump Disch Filtrate Collector Tank
+101189791	PM01	3M Chck & Regul Pump Feed Filter Press		6	0420-PPS-0074	Pump System
+101189792	PM01	3M Chck & Regul Pump Feed Filter Press		6	0420-PPS-0074	Pump System
+101190112	PM01	5Y C/O Gear Reducer Flotation Cell	OUTM2505	5	0330-FTR-0003	Vertical Gear Reducer
+101190596	PM01	3M Insp Rougher Flotation Cells	OUTM2501	5	RSFL001	Flot Rougher & Rougher Scav Row 1
+101190597	PM01	3M Insp Rougher Flotation Cells	OUTM2501	5	RSFL002	Flot Rougher & Rougher Scav Row 2
+101190598	PM01	3M Insp Rougher Flotation Cells	OUTM2502	5	RSFL003	Flot Rougher & Rougher Scav Row 3
+101190599	PM01	3M Insp Rougher Flotation Cells	OUTM2502	5	RSFL004	Flot Rougher & Rougher Scav Row 4
+101191260	PM01	3Y C/O Hydraulic Cylinder Filter		6		Closing Cylinder
+101192022	PM01	6M C/O Dart Valve Feed #6-160	OUTM2501	5	0330-FTA-0006	Dart Valves
+101192023	PM01	6M C/O Dart Valve discharge #10-160	OUTM2501	5	0330-FTA-0010	Dart Valve
+101192024	PM01	6M C/O   Dart Valve Discharge #16-100	OUTM2501	5	0330-FTA-0016	Dart Valve
+101192027	PM01	6M C/O Mech Hyd Rotation Return Filter	OUTM2501	6	0510-TMS-0004	Hydraulic Components
+101192028	PM01	6M C/O Mech Hyd Rotation Return Filter	OUTM2502	6	0510-TMS-0005	Hydraulic Components
+101192032	PM01	1Y C/O Mech Hydraulic Oil Return Filter		6	0410-TMS-0006	Hydraulic Components
+101192038	PM01	1Y C/O Mech Hydraulic Oil Return Filter	OUTM2505	6	0340-TMS-0001	Hydraulic Components
+101192970	PM01	6M Change Out Transmition V-Belt	2024W48	5	0330-PPS-0143	Drive System
+101192971	PM01	6M Change Out Transmition V-Belt	2024W48	5	0330-PPS-0144	Drive System
+101192972	PM01	6M Change Out Transmition V-Belt		5	0330-PPS-0145	Drive System
+101192973	PM01	6M Change Out Transmition V-Belt		5	0330-PPS-0146	Drive System
+101192974	PM01	6M Change Out Transmition V-Belt		5	0330-PPR-0016	Drive System
+101192975	PM01	6M Change Out Transmition V-Belt		5	0391-PPR-0011	Drive System
+101192976	PM01	6M Change Out Transmition V-Belt		5	0330-PPS-0139	Drive System
+101192977	PM01	6M Change Out Transmition V-Belt		5	0330-PPR-0045	Drive System
+101192978	PM01	6M Change Out Transmition V-Belt		5	0330-PPR-0048	Drive System
+101192979	PM01	6M Change Out Transmition V-Belt		5	0391-PPR-0055	Drive System
+101193080	PM01	6M Change Out Transmition V-Belt		5	0391-PPS-0067	Drive System
+101193081	PM01	6M Change Out Transmition V-Belt		5	0391-PPS-0068	Drive System
+101193082	PM01	6M Change Out Transmition V-Belt		5	0391-PPS-0065	Drive System
+101193083	PM01	6M Change Out Transmition V-Belt		5	0391-PPS-0066	Drive System
+101193084	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193085	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193086	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193087	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193088	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193089	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193090	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193091	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193092	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193093	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193094	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101193095	PM01	6M Change Out Transmition V-Belt		5		Drive System
+101197886	PM01	1Y C/O Throat-Liners-Impeller	2024W48	5	0330-PPS-0145	Pump Transfer Cleaner Scavenger 1
+101197970	PM01	3M Clean/Change Filter Dust System	PROC-P	6	0370-DCB-0004	Dust Collector Components
+101197980	PM01	1Y C/O Dart Valve Cell		5	0330-FTR-0012	Dart Valves
+101197982	PM01	4Y C/O Draft Tube Flotation Cell	OUTM2601	5	0330-FTR-0025	Draft Tube
+101197986	PM01	4Y C/O Mech Cone Velocity	OUTM2505	5	0330-FTR-0014	Cone Velocity
+101197987	PM01	4Y C/O Mech Cone Velocity	OUTM2603	5	0330-FTR-0015	Cone Velocity
+101197988	PM01	4Y C/O Mech Cone Velocity	OUTM2508	5	0330-FTR-0025	Cone Velocity
+101198704	PM01	2M Chck & Regul Pump Moly	PROC-P	6	0370-PPS-0041	Pump Feed Moly Fourth Cleaner Column
+101200183	PM01	4M Maint Press Filter Cu Concentrate	OUTF2501	6	0420-FLA-0003	Press Filter Cu Concentrate Horizontal
+101201132	PM01	4Y C/O Pump Delkor Thickener	OUTM2501	6	0510-TMS-0004	Pump Hydraulic
+101201908	PM01	3Y C/O Stator Flotation Cell		5	0330-FTR-0003	Stator
+101202806	PM01	1Y C/O Dart Valve Connection 160		5	0330-FTA-0008	Dart Valves
+101205197	PM01	1Y C/O Throat-Liners-Impeller		5	0330-PPS-0147	Pump Transfer Second Cleaner Concentrate
+101206041	PM01	1W Insp Mech Thickeners Concentrate Area	2024W41	6	THICKENING CONC.	Thickening Concentrate
+101206185	PM01	2400H C/O Wet-end	2024W48	6	0410-PPS-0123	Pump Components
+101206186	PM01	800H C/O Wet-end	2024W41	6	0410-PPS-0124	Pump Components
+101206424	PM01	1M Chck Comp Blower Centrifugal Floccul	2024W41	6	0392-ZMF-0004-19	Blower Components
+101206507	PM01	4M Svce Lube Press Filter Cu Concentrate	OUTF2501	6	0420-FLA-0002	Press Filter Cu Concentrate Horizontal
+101206508	PM01	4M Svce Lube Press Filter Cu Concentrate	OUTF2501	6	0420-FLA-0003	Press Filter Cu Concentrate Horizontal
+101206509	PM01	4M Svce Lube Press Filter Cu Concentrate	OUTF2501	6	0420-FLA-0004	Press Filter Cu Concentrate Horizontal
+101207310	PM01	6M C/O Sleeve 18in Pinch Valve 9352	2024W43	6	0510-TKF-0026	Thickener Tailings 1
+101207574	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0082	Wet End
+101207575	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0082	Piping & Valving
+101207580	PM01	6M C/O Pump Repair Kit FM	2024W48	5	0392-PPD-0044	Wet End
+101207581	PM01	6M C/O Pump Bladder Kit	2024W48	5	0392-PPD-0044	Piping & Valving
+101207582	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0047	Wet End
+101207583	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0047	Piping & Valving
+101207584	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0224	Wet End
+101207585	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0224	Piping & Valving
+101207586	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0056	Piping & Valving
+101207587	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0062	Wet End
+101207588	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0062	Piping & Valving
+101207589	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0065	Wet End
+101207590	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0065	Piping & Valving
+101207591	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0115	Wet End
+101207592	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0115	Piping & Valving
+101207593	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0118	Wet End
+101207594	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0118	Piping & Valving
+101208481	PM01	5Y C/O Mech Bolts Support Feedwell	OUTM2501	6		Feed Well
+101208482	PM01	5Y C/O Mech Bolts Drop Box Feed	OUTM2501	6		Drop Box
+101208484	PM01	5Y C/O Mech Bolts Scraper	OUTM2501	6	510-TKF-0026	Structure
+101208485	PM01	5Y C/O Mech Tie Rod Long Rake	OUTM2501	6	510-TKF-0026	Rakes
+101208486	PM01	5Y C/O Mech Assembly Bolts Long Rake	OUTM2501	6	510-TKF-0026	Rakes
+101208487	PM01	5Y C/O Mech Tie Rod Short Rake	OUTM2501	6	510-TKF-0026	Rakes
+101208488	PM01	5Y C/O Mech Assembly Bolts Short Rake	OUTM2501	6	510-TKF-0026	Rakes
+101208489	PM01	5Y C/O Mech Tie Rod Quadrature Rake	OUTM2501	6	510-TKF-0026	Rakes
+101208490	PM01	5Y C/O Mech Blades Support Bolts	OUTM2501	6	510-TKF-0026	Rakes
+101208491	PM01	5Y C/O Mech Bolts Support Feedwell	OUTM2501	6		Feed Well
+101208492	PM01	5Y C/O Mech Bolts Drop Box Feed	OUTM2501	6		Drop Box
+101208493	PM01	5Y C/O Mech Bolts Torque Cage	OUTM2501	6	510-TKF-0027	Structure
+101208494	PM01	5Y C/O Mech Bolts Scraper	OUTM2501	6	510-TKF-0027	Structure
+101208495	PM01	5Y C/O Mech Assembly Bolts Long Rake	OUTM2501	6	510-TKF-0027	Rakes
+101208496	PM01	5Y C/O Mech Blades Support Bolts	OUTM2501	6	510-TKF-0027	Rakes
+101209360	PM01	1M Insp Dust Collector System	2024W48	5	0392-DCB-0016	Dust Collector System Xanthate
+101209693	PM01	1Y C/O Plate Filter MPH	OUTF2502	6	0420-FLA-0003	Filter Plates
+101209694	PM01	1Y C/O Filter Plate FPH	OUTF2502	6	0420-FLA-0003	Filter Plates
+101209695	PM01	1Y C/O Plate Filter Complete	OUTF2502	6	0420-FLA-0003	Filter Plates
+101209733	PM01	1M C/O Hose Conc Pump	2024W46	6	0370-PPD-0229	Wet End
+101209734	PM01	1M C/O Hose Conc Pump		6	0370-PPD-0229	Wet End
+101210058	PM01	2M Chck/Reg Pump Overflow Concentrate		6	0340-PPC-0063	Pump Overflow Concentrate Thickener
+101210782	PM01	7Y C/O Gear Box Thickener		6	0410-TMS-0006	Gearbox 1
+101210915	PM01	3Y C/O Throat-Liners-Impeller		5	0330-PPS-0009	Pump Rougher Concentrate Mill Product
+101212081	PM01	3M Chck & Regul Pump Feed Filter Press		6	0420-PPS-0073	Pump System
+101212084	PM01	600H C/O Wet-end		6	0340-PPS-0026	Pump Components
+101212410	PM01	4M Chck Syst & Comp Cvy Belt Filter Cake	OUTF2501	6	0420-CVB-0024	Conveyor Belt Filter Cake Discharge
+101212518	PM01	6M C/O Vortex Ciclon		5	0330-CSC-0005	Cyclone Cluster Rougher Concentrate Re
+101212664	PM01	3M C/O Filter Blower		5	0330-CPB-0001	Blower Components
+101212665	PM01	2M C/O Idlers		6	0430-CVB-0027	Idlers
+101213328	PM01	5Y C/O Pump Hydraulic Low pressure		6	0420-FLA-0002	Pump Hydraulic 1
+101213768	PM01	1Y C/O Plate Filter MPH	OUTF2503	6	0420-FLA-0004	Filter Plates
+101213769	PM01	1Y C/O Filter Plate FPH	OUTF2503	6	0420-FLA-0004	Filter Plates
+101213770	PM01	1Y C/O Plate Membrane Complete Filter	OUTF2503	6	0420-FLA-0004	Filter Plates
+101213771	PM01	1Y C/O Plate Filter Complete	OUTF2503	6	0420-FLA-0004	Filter Plates
+101214022	PM01	7Y C/O Mech Filter Rails Slide	OUTF2501	6	0420-FLA-0003	Frame
+101214023	PM01	7Y C/O Mech Filter Rails Slide	OUTF2601	6	0420-FLA-0002	Frame
+101214027	PM01	1Y C/O Valve Cloth Washer Filter Moly	OUTY2601	6	0370-FLA-0001	Piping & Valving
+101214028	PM01	1Y C/O Valve Wash Flood Wash Filter Mo	OUTY2502	6	0370-FLA-0001	Piping & Valving
+101214029	PM01	1Y C/O Valve Check Feed Water / Air	OUTY2501	6	0370-FLA-0001	Piping & Valving
+101214032	PM01	1Y C/O Valve Plug Filter Moly	OUTY2601	6	0370-FLA-0001	Piping & Valving
+101214033	PM01	1Y C/O Valve Slurry Return Filter Moly	OUTY2501	6	0370-FLA-0001	Piping & Valving
+101214034	PM01	6M C/O Valve Core Blow Return Filter Mo	OUTY2501	6	0370-FLA-0001	Piping & Valving
+101214035	PM01	6M C/O Valve Slurry Feed Filter Moly	OUTY2501	6	0370-FLA-0001	Piping & Valving
+101214036	PM01	6M C/O Valve Slurry Recir. Filter Moly	OUTY2501	6	0370-FLA-0001	Piping & Valving
+101214037	PM01	3Y C/O Ball Bearing Drip Tray Filter Mo	OUTY2502	6	0370-FLA-0001	Structure
+101214038	PM01	5Y C/O Pump Piston High Pressure	OUTY2601	6		Pumps Hydraulic
+101214039	PM01	5Y C/O Mech Filter Shaker Vibration	OUTY2501	6		Shaker Mechanism
+101214400	PM01	3Y C/O Plate Filter Head	OUTY2601	6		Placa Cabezal Fijo
+101214401	PM01	3Y C/O Plate Filter Follower	OUTY2601	6		Placa Cabezal Mævil
+101214402	PM01	3Y C/O Plate Membrane Complete Filter	OUTY2601	6		Placa Membrana
+101214403	PM01	3Y C/O Plate Filter Complete	OUTY2601	6		Placa Filtrante
+101214405	PM01	5Y C/O Hydraulic Cylinder Drip Tray	OUTY2601	6		Closing Cylinder
+101214406	PM01	3Y C/O Mech Spray Nozzle	OUTY2501	6	0370-FLA-0001	Piping & Valving
+101214407	PM01	5Y C/O Oil Cooler Filter Moly	OUTY2601	6		Hydraulic Press Unit
+101214408	PM01	6M C/O Hydraulic Oil Filter	OUTY2501	6		Hydraulic Press Unit
+101214409	PM01	5Y C/O Mech Filter Rails Slide	OUTY2501	6	0370-FLA-0001	Structure
+101214706	PM01	5Y C/O Mech Tie Rod Long Rake	OUTM2505	6	510-TKF-0027	Rakes
+101214707	PM01	5Y C/O Mech Tie Rod Short Rake	OUTM2505	6	510-TKF-0027	Rakes
+101214709	PM01	5Y C/O Mech Tie Rod Quadrature Rake	OUTM2505	6	510-TKF-0027	Rakes
+101214711	PM01	5Y C/O Mech Bolts Torque Cage	OUTM2505	6	0340-TKF-0001	Structure
+101214713	PM01	5Y C/O Mech Bolts Scraper	OUTM2505	6	0340-TKF-0001	Structure
+101214714	PM01	5Y C/O Mech Assembly Bolts Long Rake	OUTM2505	6	0340-TKF-0001	Rakes
+101214715	PM01	5Y C/O Mech Blades Support Bolts	OUTM2505	6	0340-TKF-0001	Rakes
+101215053	PM01	4Y C/O Draft Tube Flotation Cell	OUTM2408	5	0330-FTR-0011	Draft Tube
+101215333	PM01	2Y C/O Bearing Housing 160	OUTM2501	5	0330-FTA-0010	Agitator Components
+101216929	PM01	6M Chck Internal Cyclone Cluster	OUTM2501	5	0330-CSC-0005	Cyclone Cluster Rougher Concentrate Re
+101217026	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0510-TMS-0004	Motor Hydraulic 1
+101217027	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0510-TMS-0004	Motor Hydraulic 2
+101217028	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0510-TMS-0004	Motor Hydraulic 3
+101217029	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0510-TMS-0004	Motor Hydraulic 4
+101217030	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0510-TMS-0004	Motor Hydraulic 5
+101217031	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0510-TMS-0004	Motor Hydraulic 6
+101217032	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0510-TMS-0004	Motor Hydraulic 7
+101217033	PM01	5Y C/O Mech Motor Hydraulic	OUTM2501	6	0510-TMS-0004	Motor Hydraulic 8
+101217034	PM01	8Y C/O Mech Hyd Direcionalt Valve	OUTM2501	6	0510-TMS-0004	Valves
+101217035	PM01	5Y C/O Mech Assembly Bolts Short Rake	OUTM2501	6	510-TKF-0027	Rakes
+101217382	PM01	5Y C/O Mech Discharge Hydr Cylinders	OUTF2501	6	0420-FLA-0004	Hydraulic Components
+101217765	PM01	800H C/O Wet-end	2024W48	6	0410-PPS-0124	Pump Components
+101218090	PM01	2Y C/O Pump Assembly		6	0551-PPV-0075	Pump System
+101218922	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0074	Wet End
+101218923	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0074	Piping & Valving
+101218924	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0083	Wet End
+101218925	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0083	Piping & Valving
+101218926	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0227	Wet End
+101218927	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0227	Piping & Valving
+101218928	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0045	Wet End
+101218929	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0045	Piping & Valving
+101218930	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0225	Wet End
+101218931	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0225	Piping & Valving
+101218932	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0063	Wet End
+101218933	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0063	Piping & Valving
+101218934	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0116	Wet End
+101218935	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0116	Piping & Valving
+101219103	PM01	6M C/O Sleeve 18in Pinch Valve 9352	PROC	6	0510-TKF-0026	Thickener Tailings 1
+101219449	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0077	Wet End
+101219450	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0077	Piping & Valving
+101219451	PM01	6M C/O Pump Repair Kit FM	2024W48	5	0392-PPD-0037	Wet End
+101219452	PM01	6M C/O Pump Bladder Kit	2024W48	5	0392-PPD-0039	Piping & Valving
+101219453	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0048	Wet End
+101219454	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0048	Piping & Valving
+101219455	PM01	6M C/O Pump Bladder Kit	2024W48	5	0392-PPD-0057	Piping & Valving
+101219456	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0066	Wet End
+101219457	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0066	Piping & Valving
+101219458	PM01	6M C/O Pump Repair Kit FM		5	0392-PPD-0119	Wet End
+101219459	PM01	6M C/O Pump Bladder Kit		5	0392-PPD-0119	Piping & Valving
+101219831	PM01	6M C/O Sleeve 18in Pinch Valve 9452		6	0510-TKF-0027	Thickener Tailings 2
+101219832	PM01	6M C/O Sleeve 18in Pinch Valve 9452		6	0510-TKF-0027	Thickener Tailings 2
+101219833	PM01	6M C/O Sleeve 18in Pinch Valve 9452		6	0510-TKF-0027	Thickener Tailings 2
+101219834	PM01	6M C/O Sleeve 18in Pinch Valve 9452		6	0510-TKF-0027	Thickener Tailings 2
+101219835	PM01	6M C/O Sleeve 18in Pinch Valve 9452		6	0510-TKF-0027	Thickener Tailings 2
+101219845	PM01	6M C/O Sleeve 18in Pinch Valve 9342		6	0510-TKF-0026	Thickener Tailings 1
+101220540	PM01	4M Insp Mech Discharge & Suction Valves	OUTM2501	6	0420-PPS-0074	Valve
+101221709	PM01	6M C/O Pump Repair Kit FM	2024W48	5	0392-PPD-0039	Wet End
+101222129	PM01	1M Chck Syst & Comp Dust Collec Lime Bin	PROC-P	5	0391-ZMB-0001-07	Dust Collector Lime Bin
+101222515	PM01	2M C/O Sleeve 18in Pinch Valve 9452		6	0510-TKF-0027	Thickener Tailings 2
+101222741	PM01	4Y C/O Mech Cone Velocity	OUTM2501	5	0330-FTR-0013	Cone Velocity
+101222742	PM01	4Y C/O Mech Bottom False	OUTM2501	5	0330-FTR-0013	Bottom False
+101222865	PM01	3Y C/O Stator 160 Cell	OUTM2501	5	0330-FTA-0001	Stator
+101222866	PM01	3Y C/O Stator 160 Cell	OUTM2501	5	0330-FTA-0005	Stator
+101222867	PM01	2Y C/O Bearing Housing 100		5	0330-FTA-0016	Agitator Components
+101222868	PM01	2Y C/O Bearing Housing 100	OUTM2501	5	0330-FTA-0015	Agitator Components
+101222869	PM01	3Y C/O Stator 70 Cell	OUTM2501	5	0330-FTA-0022	Stator
+101222871	PM01	5Y C/O Mech Driven Pulley	OUTM2501	5	0330-FTA-0001	Drive Components
+101223028	PM01	6Y C/O Mech Hyd Rake Lift Valves	OUTM2506	6	0510-TMS-0005	Valves
+101223029	PM01	8Y C/O Mech Hyd Direcionalt Valve	OUTM2506	6	0510-TMS-0005	Valves
+101223180	PM01	6M C/O Pump		5	0330-PPR-0049	Pump System
+101223244	PM01	5Y C/O Mech Bolts Torque Cage	OUTM2501	6	0410-TKF-0032	Structure
+101223245	PM01	5Y C/O Mech Bolts Scraper	OUTM2501	6	0410-TKF-0032	Structure
+101223246	PM01	5Y C/O Mech Tie Rod Long Rake	OUTM2501	6	0410-TKF-0032	Rakes
+101223247	PM01	5Y C/O Mech Assembly Bolts Long Rake	OUTM2501	6	0410-TKF-0032	Rakes
+101223248	PM01	5Y C/O Mech Tie Rod Short Rake	OUTM2501	6	0410-TKF-0032	Rakes
+101223249	PM01	5Y C/O Mech Assembly Bolts Short Rake	OUTM2501	6	0410-TKF-0032	Rakes
+101223250	PM01	5Y C/O Mech Tie Rod Quadrature Rake	OUTM2501	6	0410-TKF-0032	Rakes
+101223251	PM01	5Y C/O Mech Blades Support Bolts	OUTM2501	6	0410-TKF-0032	Rakes
+101223252	PM01	5Y C/O Mech Tie Rod Long Rake		6	0340-TKF-0001	Rakes
+101223253	PM01	5Y C/O Mech Tie Rod Short Rake		6	0340-TKF-0001	Rakes
+101223254	PM01	5Y C/O Mech Tie Rod Quadrature Rake		6	0340-TKF-0001	Rakes
+101223255	PM01	5Y C/O Mech Bolts Support Feedwell	OUTM2505	6	0340-TKF-0001	Feed Well
+101223256	PM01	5Y C/O Mech Bolts Drop Box Feed	OUTM2505	6	0340-TKF-0001	Drop Box
+101223257	PM01	5Y C/O Mech Assembly Bolts Short Rake	OUTM2505	6	0340-TKF-0001	Rakes
+101223369	PM01	4M Maint Press Filter Cu Concentrate	OUTF2501	6	0420-FLA-0004	Press Filter Cu Concentrate Horizontal
+101223371	PM01	4M Chck Syst & Comp Cvy Belt Filter Cake	OUTF2501	6	0420-CVB-0026	Conveyor Belt Filter Cake Discharge
+101223508	PM01	6M C/O Pinch Valve Sleeve	OUTY2501	6	0370-FTC-0006	Piping & Valving
+101223509	PM01	6M C/O Pinch Valve Sleeve	OUTY2501	6	0370-FTC-0003	Piping & Valving
+101223510	PM01	6M C/O Pinch Valve Sleeve	OUTY2501	6	0370-FTC-0004	Piping & Valving
+101223511	PM01	6M C/O Pinch Valve Sleeve	OUTY2501	6	0370-FTC-0005	Piping & Valving
+101223671	PM01	3Y C/O Mech Filter Vibration Damper	OUTF2502	6	0420-FLA-0002	Frame
+101223672	PM01	2Y C/O Mech Filter Plates Blocks Inf	OUTF2501	6	0420-FLA-0002	Filter Plates
+101223673	PM01	2Y C/O Mech Filter Plates Links Sup	OUTF2603	6	0420-FLA-0004	Filter Plates
+101223827	PM01	5Y C/O Mech Filter Shaker Vibration		6		Shaker Mechanism
+101224784	PM01	1Y C/O Pump		5	0330-PPR-0043	Pump Sump Flotation Cell Row 1 & 2
+101224785	PM01	1Y C/O Pump		5	0330-PPR-0044	Pump Sump Flotation Cell Row 3 & 4
+101225417	PM01	1Y C/O Dart Valve Cell		5		Dart Valves
+101227746	PM01	2M C/O Sleeve 18in Pinch Valve 9452		6	0510-TKF-0027	Thickener Tailings 2
+101228913	PM01	6M Change out Transmition V-Belt		5	0391-PPR-0011	Drive System
+101229028	PM01	3Y C/O Disperser Cell	PROC-P	5	0330-FTR-0012	Disperser
+101229029	PM01	3Y C/O Disperser Cell	PROC-P	5	0330-FTR-0023	Disperser
+200722251	PM02	"Valv man 2132V182 (36"") deja pasar agua"	OUTM2502	7	2132-V-182	Fresh Water Pump Station 3
+200752016	PM02	0430-CVB-0027 compra & cambio polines	OUTM2501	6	0430-CVB-0027	Conveyor Feed Concentrate Stockpile
+200770839	PM02	Compra repuestos PPV-0034	PROC	7	2132-PPV-0034	Pump High Press Pump Station 1
+200783433	PM02	0510-TKF-0026 cambio Spool/Vitaulic SP13	PROC-P	6	0510-TKF-0026	Thickener Tailings 1
+200789346	PM02	0510-LAL-0035 Reparacion.	OUTM2501	6	0510-LAL-0035	Launder Final Tailing
+200791902	PM02	0370-DRE-0001-007 V?LVULA DOBLADA	OUTY2501	6	0370-DRE-0001	Valving
+200798166	PM02	0420-AGA-0021 POLEA MOTRIZ ROTA	OUTM2501	6	0420-AGA-0021	Agitator
+200800143	PM02	0420-FLA-0003 Cambio de tuber›a.	OUTF2501	6	0420-FLA-0003	Piping & Valving
+200800144	PM02	0420-FLA-0004 Cambio de tuber›a.	OUTF2501	6	0420-FLA-0004	Piping & Valving
+200805936	PM02	0330-PPS-0148 CambioTuber›a SP-03	PROC-P	5	0330-PPS-0148	Piping & Valving
+200811896	PM02	C/o spool descarga TKF 26 linea 01 SP13	PROC-P	6	0510-TKF-0026	Thickener Tailings 1
+200811899	PM02	c/o spool descargaTKF26, linea 01, SP14	PROC-P	6	0510-TKF-0026	Thickener Tailings 1
+200812794	PM02	Srvc mantto integral sistema HD 370FLA01	OUTY2502	6	0370-FLA-0001	Hydraulic Press Unit
+200815237	PM02	COMP DE  JUNTA ROTATORIA DE HOLO-FLITE	OUTY2502	6	0370-DRE-0001	Dryer Final Moly
+200815984	PM02	REX_Rep Motores y Bote Zodiac	REP_COMP	7	551	Tailing Dam Reclaim Water
+200822197	PM02	INSP. JUNTAS EXPANSION PPC0129 @ 0132	OUTM2505	6	TATH004	Thickener Overflow Reclaim Water
+200822700	PM02	C/O Mangas Sup Colector 0430-DCB-0026	PROC-P	6	0430-DCB-0026	Dust & Gas Collector Filter Cake Loadout
+200822702	PM02	C/O Mangas Sup Colector 0430-DCB-0027	2024W48	6	0430-DCB-0027	Dust & Gas Collector Filter Cake Loadout
+200824834	PM02	C/O of pipe SP-20/SP-33/SP-39/SP-44/46	OUTM2501	5	0330-PPS-0021	Piping & Valving
+200824849	PM02	0330-FTA-0004 REPARAR DEFLECTOR	OUTM2501	5	0330-FTA-0004	Structure
+200824851	PM02	0330-FTA-0005 REPARAR DEFLECTOR	OUTM2501	5	0330-FTA-0005	Structure
+200824853	PM02	0330-FTA-0007 REPARAR DEFLECTOR	OUTM2501	5	0330-FTA-0007	Structure
+200824854	PM02	0330-FTA-0009 DEFLECTOR PERDIDA DE PERNE	OUTM2501	5	0330-FTA-0009	Structure
+200824880	PM02	0330-FTA-0012 REPARAR DEFLECTOR	OUTM2501	5	0330-FTA-0012	Structure
+200824881	PM02	330-FTA-0013 REPOSICION DE DEFLECTOR N?7	OUTM2501	5	0330-FTA-0013	Structure
+200824885	PM02	0330-FTA-0015 REPARAR DEFLECTOR	OUTM2501	5	0330-FTA-0015	Structure
+200824887	PM02	0330-FTA-0016 REPARAR DEFLECTOR	OUTM2501	5	0330-FTA-0016	Structure
+200828428	PM02	C/O codo descarga bomba 0420-PPR-0062	2024W47	6	0420-PPR-0062	Pump Sump Filtrated Water Area
+200828502	PM02	0330-FTA-0001 CAMBIO DE DEFLECTORES	OUTM2501	5	0330-FTA-0001	Cell 1 First Cleaner
+200828507	PM02	Insp & camb condic. deflect cleaner scav	OUTM2501	5	0330-FTA-0010	Structure
+200828838	PM02	c/o revestimiento chute descarga FLA-002	OUTF2501	6	0420-FLA-0002	Press Filter Cu Concentrate Horizontal
+200828878	PM02	c/o revestimient compuert desca 420FLA04	OUTF2501	6	0420-FLA-0004	Structure
+200828900	PM02	c/o revestimient compuert desca 420FLA03	OUTF2501	6	0420-FLA-0003	Structure
+200834146	PM02	REX_Rep Bomba VIT-FF 16X18HXC	REP_COMP	7	0551-PPV-0075	Pump Tailing Dam Reclaim Water
+200837234	PM02	cambio de spools  340-pps-0025	OUTM2501	6	0340-PPS-0025	Pump Underflow Concentrate Thickener
+200837239	PM02	cambio de spools  340-pps-0026	OUTM2501	6	0340-PPS-0026	Pump Underflow Concentrate Thickener
+200837271	PM02	cambio de spools  410-pps-0124	OUTM2501	6	0410-PPS-0124	Pump Underflow Cu Concentrate Thickener
+200838745	PM02	C/O Bomba 0370-PPC-0010	PROC-P	6	0370-PPC-0010	Pump Feed NaHS
+200838746	PM02	C/O Bomba 0370-PPC-0009	PROC-P	6	0370-PPC-0009	Pump Unloading NaHS
+200843170	PM02	"C/O 2 valve 3"" mariposa salida 370CPC001"	PROC-P	6	0370-CPC-0001	Compressor Components
+200844022	PM02	c/o valve cuchill transfdescar 410PPS124	PROC-P	6	0410-PPS-0124	Valve
+200844197	PM02	c/o partes humedas bomba 370PPR0010	PROC-P	6	MOFI001	Filtration Moly Concentrate
+200847163	PM02	Cambio de sellos	PROC-P	5	0393-CCW-0016	Water Cooling System Air Compressors
+200847201	PM02	"Cambio de Valvula Pinch 3"""	2024W43	5	0330-SAL-0027	Sampler Splitter Rougher Feed
+200849835	PM02	Mtto Correctivo Monorriel 0430-CNH-0068	PROC-P	6	0430-CNH-0068	Hoist Concentrate Stockpile Conveyor
+200851102	PM02	0420-CVB-0025 Cambio de polines.	PROC	6	0420-CVB-0025	Conveyor Belt Filter Cake Discharge
+200851540	PM02	Mtto Correctiv Grua Torre 0330-CNT-0003	PROC-P	5	0330-CNT-0003	Crane Tower Regrinding
+200851541	PM02	Mtto Correctiv Grua Torres 0330-CNT-0001	PROC-P	5	0330-CNT-0001	Crane Tower Flotation
+200854172	PM02	Mantenimiento de PPR-0063	2024W48	6	0370-PPR-0063	Pump Sump Flotation Area
+200855597	PM02	Mtto Correctivo Monorriel 0340-CNH-0039	PROC-P	6	0340-CNH-0039	Trolley & Hoist Mnt Thckener Concentrate
+200855837	PM02	REX_Rep Bomba 2132-PPV-0034	REP_COMP	7	2132-PPV-0034	Pump High Press Pump Station 1
+200856004	PM02	0330-PPS-0148 Cambio de Spool 04	PROC-P	5	0330-PPS-0148	Piping
+200856006	PM02	0330-PPS-0147 Cambio de Spool 13	PROC-P	5	0330-PPS-0147	Piping
+200856009	PM02	0330-PPS-0147 Cambio de Spool 43	OUTM2501	5	0330-PPS-0147	Piping
+200856013	PM02	0330-PPS-0147 Cambio de Spool 46	OUTM2501	5	0330-PPS-0147	Piping
+200860854	PM02	Mtto Correctivo 0410-CNH-0108	PROC-P	6	0410-CNH-0108	Trolley & Hoist Mnt Cu Thcknr Concntrate
+200861556	PM02	C/O Valv 0921V0136 / 0921V0444	2024W40	7	0921-TKF-0057	Tank Fresh & Fire Water Storage
+200861590	PM02	c/o partes humedas 370PPS0037	PROC-P	6	0370-PPS-0037	Wet End
+200862315	PM02	ambio sello y Manguito SKF Speedi-Sleev	PROC-P	5	0330-FTR-0018	Drive System
+200863112	PM02	0430-FAC-0043 Chumacera lado acople.	PROC-P	6	0430-FAC-0043-M1	Motor Electric
+200865510	PM02	C/O bomba hidraulica 0370FLA0001	OUTY2501	6	0370-FLA-0001	Piping & Valving
+200866828	PM02	Chck & Insp valvula bermad PSV-09255	OUTM2501	6	TATH002	Thickener 1
+200867400	PM02	"c/o valv cuchilla manua 14"" 510-SUU-0036"	OUTM2501	6	0510-SUU-0036	Tank
+200872664	PM02	Cambo valvula check blower 2	PROC-P	5	0330-CPB-0002	Blower Air System 2 Cleaner Cells
+200872887	PM02	Cambio valvula direccional FTR27/26/24.	2024W45	5	0330-FTR-0027	Gearbox
+200877612	PM02	0430-CVB-0027 Cambio de polines.	OUTM2501	6	0430-CVB-0027	Conveying System
+200878344	PM02	0330-FTR-0013 Reparacion wearing Rotor.	OUTM2407	5	0330-FTR-0013	Disperser
+200881596	PM02	"Valvulas manuales purga de 3""TKF26/27"	OUTM2501	6	THICKENERS TAILINGS	Thickeners Tailings
+200881652	PM02	C/o vﬂlvula succiæn 0510-PPC-0129	OUTM2501	6	0510-PPC-0129	Piping & Valving
+200881664	PM02	"Cambio 2 valvulas cuchilla 14"" 420TKF21"	OUTM2501	6	0420-TKF-0021	Piping & Valving
+200881946	PM02	"cambio 2 valvulas mariposa 4""-6""370PPC05"	2024W47	6	0370-PPC-0005	Piping & Valving
+200882012	PM02	CAMBIO DE BASE PORTARODAMIENTO	OUTM2501	5		Structure
+200882321	PM02	Cambio de componentes internos bomba 5x4	PROC-P	5	CSFL001	Flotation Cleaner Scavenger
+200882361	PM02	c/o Mantenimiento integral 370CVB-0023	OUTY2501	6	0370-CVB-0023	Conveyor Slat Moly Loadout
+200883102	PM02	0330-FTR-0023 Cambio de sello y manguito	2024W48	5	0330-FTR-0023	Gearbox
+200883310	PM02	0330-FTA-0011 Reparacion de deflectores	OUTM2501	5	0330-FTA-0011	Agitator Components
+200883436	PM02	Sv. Instalacion Luz de Obstaculo	PROC-P	5	0330-CNT-0001	Crane Tower Flotation
+200884413	PM02	C/O Valvula 6in salida Secador	2024W42	5	0393-DRA-0005	Dryer Air Instrument Conc Plant
+200884455	PM02	0330-PPS-0014 Compra de visor.	PROC-P	5	0330-PPS-0014	Gearbox
+200885358	PM02	0370-PPS-0041 Cambio de portarodamiento	PROC-P	6	0370-PPS-0041	Drive System
+200886296	PM02	Compra de revestimiento lado succiæn y p		5	0330-PPS-147	Flotation Second Cleaner
+200886970	PM02	C/O vﬂlvula distri/contrabalanc 340TMS01	OUTM2501	6	0340-TMS-0001	Hydraulic Components
+200887761	PM02	Inspeccion pernos y nivelaciæn de vigas	OUTM2408	5	0330-FTA-0022	Structure
+200888571	PM02	reparacion bomba 370PPC0130	PROC-P	6	0370-PPC-0130	Wet End
+200889362	PM02	"C/O valve cuchilla 6"" 510PPS186 drenaje"	PROC-P	6	0510-PPS-0186	Valve
+200889364	PM02	"C/O valvula de 6"" 0510PPS0185"	PROC-P	6	0510-PPS-0185	Valve
+200889367	PM02	check&component bomba 0510PPS0185	2024W48	6	0510-PPS-0185	Wet End
+200889372	PM02	C/O Valve manual 510V219 TKF27 tunel	PROC-P	6	0510-PPS-0186	Pump Tailings Recirculation
+200889373	PM02	C/O voluta 0370PPS0041	PROC-P	6	0370-PPS-0041	Wet End
+200889601	PM02	Cambio de grommets	OUTM2501	5		Piping & Valving
+200892027	PM02	Mantenimiento de preservaciæn de Reducto	PROC	5	0330-FTR-0021	Gearbox
+200892029	PM02	Cambio de polea conducida de transmisiæn	PROC-P	5	0330-FTR-0022	Drive System
+200893274	PM02	C/O valvulas cuchill succiæn 420PPC48/49	OUTM2501	6	0420-PPC-0049	Piping & Valving
+200893817	PM02	0370-PPS-0036 Cambio de Portarodamiento.	PROC-P	6	0370-PPS-0036	Drive System
+200894657	PM02	"0330-CSC-0005 Cambio de Ciclæn  ""H"""	2024W41	5	0330-CSC-0005	Cyclone Rougher Regrind 7
+200894682	PM02	"0330-CSC-0005 cambio de Ciclæn  ""I"""	2024W41	5	0330-CSC-0005	Cyclone Rougher Regrind 8
+200895089	PM02	Manguerote descarrga de cal da±ado		5	0392-TKS-0082	Tank Components
+200895126	PM02	"Cambio de la vﬂlvula de descarga de 6"""	PROC-P	5	0330-PPS-0139	Pump Circulation Lime Surge Tank
+200895681	PM02	0510-SUU-0007 CAMBIO DE TUBERIA TAPON	OUTM2501	6	0510-SUU-0007	Box Distributor Tailing Thickener Feed
+200895740	PM02	Valvulas requieren su reparacion 2132- 3	OUTM2501	7	2132 N?3	Fresh Water Pump Station 3
+200895960	PM02	armado de placas stnc by		6	0420-FLA-0002	Press Filter Cu Concentrate Horizontal
+200896533	PM02	"Instalaciæn 120m manguera 300 psi x 1.5"""		5	CLFL001	Flotation First Cleaner
+200897641	PM02	Inspecciæn por baja eficiencia de bombeo	PROC-P	6	0340-PPR-0004	Pump Sump Concentrate Thickener
+200897947	PM02	Armado de rotor		5	0330-FTR-0022	Rotor
+200898669	PM02	c/o acople lado Motor electric 510PPC130	PROC	6	0510-PPC-0130	Drive System
+200899177	PM02	Cambio de valvulas de sello de agua	PROC-P	5	0330-PPS-0010	Pump Rougher Concentrate Mill Product
+200900175	PM02	0420-FLA-0004 CAMBIO TUBERIA DRENAJE	OUTF2501	6	0420-FLA-0004	Piping & Valving
+200900392	PM02	0420-FLA-0002 CAMBIO DE TUBERIA DRENAJE	OUTF2501	6	0420-FLA-0002	Piping & Valving
+200900393	PM02	0420-FLA-0003 CAMBIO TUBERIA DRENAJE	OUTF2501	6	0420-FLA-0003	Piping & Valving
+200902375	PM02	Cambio de raspadores 0391-ZMB-0001-01	PROC-P	5	0391-ZMB-0001-01	Belt Feeder Lime Weight
+200902377	PM02	Compra de sello y Manguito	PROC	5	0330-FTR-0022	Gearbox
+200903689	PM02	cambio de mangueras para analizadores -		5	FLSS001	Samplers & Analyzers
+200903822	PM02	Cambio de componentes de ciclon D y H	PROC-P	5	0330-CSC-0006	Cyclone Cluster Ro-Scavenger Regrind 4
+200904064	PM02	c/o valvula 0510V-086/FLUSHING	PROC-P	6	510-TKF-0026	Structure
+200904067	PM02	C/O empaques alta temp 0370DRE0001-12	OUTY2501	6	0370-DRE-0001	Piping & Valving
+200904315	PM02	0330-ZPS-0001 CAMBIAR IMPULSOR	PROC-P	5	0330-ZPS-0001	Analyzer Components
+200904396	PM02	Cambio de correas de transmisiæn	PROC	6	0420-PPC-0049	Drive System
+200905127	PM02	Cambio sellos, inspecciæn interna	PROC-P	5	0393-CCW-0016-03	Pump Water Cooling Unit
+200905752	PM02	"c/o valve cuchilla 4"" columna  370FTC07"	PROC-P	6	0370-FTC-0007	Piping & Valving
+200905814	PM02	Cambio spool SP17	OUTF2501	6	0420-FLA-0004	Press Filter Cu Concentrate Horizontal
+200908157	PM02	Necesitamos comprar 02 bombas PPD 74 la		5	0392-PPD-0074	Pump Frother Addition
+200908433	PM02	Cambio de Grommets	OUTM2503	5		Dart Valves
+600001540	PM06	TAILINGS DEPOS.& RECL. WATER IMPR. (IMP)		5	RECLAIM WATER	Reclaim Water
