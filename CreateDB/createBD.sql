@@ -7,8 +7,8 @@ GO
 -- Tabla Talleres
 CREATE TABLE talleres(
 	id INT PRIMARY KEY IDENTITY(1,1),
-	codigo_taller VARCHAR(20) UNIQUE NOT NULL,
-	nombre_taller VARCHAR(255) NOT NULL,
+	codigo_taller VARCHAR(20) UNIQUE NULL,
+	nombre_taller VARCHAR(255) NULL,
 ); 
 GO
 
@@ -24,55 +24,40 @@ GO
 -- Tabla Materiales
 CREATE TABLE materiales(
 	id INT PRIMARY KEY IDENTITY(1,1),
-	codigo_material VARCHAR(20) UNIQUE NOT NULL,
-	descripcion_material VARCHAR (100) NOT NULL,
+	codigo_material VARCHAR(255) UNIQUE NOT NULL,
+	descripcion_material VARCHAR (255) NOT NULL,
 	tipo_reposicion VARCHAR(255) NOT NULL,
-	precio_unitario VARCHAR (30) NOT NULL,
+	precio_unitario INT NULL,
+	unidad_medida VARCHAR(10) NOT NULL,
 ); 
 GO
 
 ALTER TABLE materiales
-	ADD unidad_medida VARCHAR(10)
-ALTER TABLE materiales
-ALTER COLUMN precio_unitario VARCHAR (50)
-ALTER TABLE materiales
-ALTER COLUMN codigo_material VARCHAR(50)
-ALTER TABLE materiales
-ALTER COLUMN descripcion_material VARCHAR(50)
-ALTER TABLE materiales
-ALTER COLUMN tipo_reposicion VARCHAR(50)
-ALTER TABLE materiales
-ALTER COLUMN unidad_medida VARCHAR(50)
+ALTER COLUMN precio_unitario DECIMAL(10,2) NULL
+
 
 -- Ordenes de Mantenimiento
 CREATE TABLE ordenes_mantenimiento(
 	id INT PRIMARY KEY IDENTITY(1,1),
 	orden_trabajo VARCHAR(20) UNIQUE NOT NULL,
 	tipo_orden VARCHAR (100) NOT NULL,
-	equipo VARCHAR(255) NOT NULL,
-	descripcion_trabajo VARCHAR (30) NOT NULL,
-	revision VARCHAR (30) NOT NULL,
-	taller_id INT,
+	equipo VARCHAR(255) NULL,
+	descripcion_equipo VARCHAR (255) NULL,
+	descripcion_trabajo VARCHAR (255) NOT NULL,
+	revision VARCHAR (30) NULL,
+	taller_id INT NOT NULL,
+	qty_personas INT NULL,
+	numero_horas INT NULL,
 	CONSTRAINT FK_taller_orden_mantenimiento FOREIGN KEY (taller_id) REFERENCES talleres(id)
 ); 
 GO
-
 ALTER TABLE ordenes_mantenimiento
-ALTER COLUMN equipo VARCHAR(255) NULL
-ALTER TABLE ordenes_mantenimiento
-ALTER COLUMN revision VARCHAR(30) NULL
-ALTER TABLE dbo.ordenes_mantenimiento
-ADD descripcion_equipo VARCHAR(255) NULL
-ALTER TABLE dbo.ordenes_mantenimiento DROP COLUMN descripcion_equipo
-GO
-
-SELECT*FROM ordenes_mantenimiento
+ADD carga_laboral_HH AS (numero_horas * qty_personas);
 
 -- Pedidos
 CREATE TABLE pedidos(
 	id INT PRIMARY KEY IDENTITY(1,1),
 	numero_pedido VARCHAR (20) NOT NULL,
-	pos_pedido VARCHAR (20) NOT NULL,
 	costo_total INT NULL,
 	qty_pedido INT NULL,
 	qty_pendiente_entrega INT NULL,
@@ -82,15 +67,14 @@ CREATE TABLE pedidos(
 	CONSTRAINT FK_proveedores_pedidos FOREIGN KEY (proveedor_id) REFERENCES proveedores(id)
 );
 GO
-ALTER TABLE pedidos
-DROP COLUMN pos_pedido
 
+ALTER TABLE pedidos
+ALTER COLUMN costo_total DECIMAL(10,2) NULL
 
 -- Reservas
 CREATE TABLE reservas(
 	id INT PRIMARY KEY IDENTITY(1,1),
 	numero_reserva VARCHAR(20) NOT NULL,
-	pos_reserva VARCHAR (10) NOT NULL,
 	orden_mantenimiento_id INT NOT NULL,
 	material_id INT NOT NULL,
 	qty_solicitada INT NOT NULL,
@@ -103,21 +87,12 @@ CREATE TABLE reservas(
 ); 
 GO
 
-ALTER TABLE reservas
-DROP COLUMN pos_reserva
-
 --existencias
 CREATE TABLE existencias(
 	id INT PRIMARY KEY IDENTITY(1,1),
 	material_id INT,
-	codigo_almacen VARCHAR (10) UNIQUE NOT NULL,
+	codigo_almacen VARCHAR (10) NULL,
 	qty_stock INT NULL,
 	CONSTRAINT FK_materiales_existencias FOREIGN KEY (material_id) REFERENCES materiales(id)
 ); 
 GO
-
-ALTER TABLE existencias
-ALTER COLUMN codigo_almacen VARCHAR (10) NULL
-
-ALTER TABLE existencias
-DROP COLUMN codigo_almacen
